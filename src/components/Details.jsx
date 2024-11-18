@@ -20,7 +20,7 @@ const Details = () => {
   // skills-used variants
   const skillsUsedVariants = {
     hidden: {
-      y: -500,
+      y: -800,
       rotate: 360,
     },
     visible: {
