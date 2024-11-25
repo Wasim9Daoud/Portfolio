@@ -5,7 +5,7 @@ export const projects = [
     id : 1 ,
     type : "Full Stack" ,
     title: "Social-App",
-    picture: "https://github.com/Wasim9Daoud/Portfolio/blob/main/src/assets/SocialApp.png" ,
+    picture: "/src/assets/SocialApp.png" ,
     description: `Social-App is a responsive application, contains many different pages ( login register Home profile postDetails Dashboard  (users-table posts-table comments-table )) and an authentication system ,a verify system for check emails ,more powers have been distributed to Admin user.. any user can browse the app but only logged-in users can create & update ( profiles , posts , comments ) , only admin-user can access to the Dashboard he can just delete without updating ,user also can add images to his profile or posts`,
 
     skillsUsed: [
