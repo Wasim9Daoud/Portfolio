@@ -56,7 +56,7 @@ export const projects = [
     id : 3 ,
     type : "Front-End" ,
     title: "Tasty Restaurant",
-    picture:"./Restaurant.png" ,
+    picture: "./Restaurant.png" ,
     description: `Tasty Restaurant is a responsive application, contains many different pages ( login register Home meals-kinds mealDetails Cart ), user can select kind of foods & meals & drinks.. there is cart page contains all meals&drinks and the total price  `,
 
     skillsUsed: [
