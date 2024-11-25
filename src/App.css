@@ -12,11 +12,11 @@ body{
    object-fit: fill; 
  }
 
- .projectBg{
+ /* .projectBg{
   background-image: url("./assets/CloudHosting.png"); 
   background-size: cover;
   object-fit: fill; 
- }
+ } */
 
 .cube-container {
   perspective: 100000px;
