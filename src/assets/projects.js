@@ -5,7 +5,7 @@ export const projects = [
     id : 1 ,
     type : "Full Stack" ,
     title: "Social-App",
-    picture: "./SocialApp.png" ,
+    picture: "https://i.postimg.cc/MT4D0HKX/Social-App.png" ,
     description: `Social-App is a responsive application, contains many different pages ( login register Home profile postDetails Dashboard  (users-table posts-table comments-table )) and an authentication system ,a verify system for check emails ,more powers have been distributed to Admin user.. any user can browse the app but only logged-in users can create & update ( profiles , posts , comments ) , only admin-user can access to the Dashboard he can just delete without updating ,user also can add images to his profile or posts`,
 
     skillsUsed: [
@@ -31,7 +31,7 @@ export const projects = [
     id : 2 ,
     type : "Full Stack" ,
     title: "Cloud-Hosting",
-    picture: "./CloudHosting.png" ,
+    picture: "https://i.postimg.cc/kgdTh2Nb/Cloud-Hosting.png" ,
     description: `Cloud-Hosting is a responsive application, contains many different pages ( login register Home Posts postDetails Dashboard  (users-table posts-table comments-table )) and an authentication system more powers have been distributed to Admin user.. any user can browse the app but only logged-in users can create & update ( posts , comments ) , only admin-user can access to the Dashboard he can just delete users , posts or comments without updating `,
 
     skillsUsed: [
@@ -56,7 +56,7 @@ export const projects = [
     id : 3 ,
     type : "Front-End" ,
     title: "Tasty Restaurant",
-    picture: "./Restaurant.png" ,
+    picture: "https://i.postimg.cc/d1D7s0BQ/Restaurant.png" ,
     description: `Tasty Restaurant is a responsive application, contains many different pages ( login register Home meals-kinds mealDetails Cart ), user can select kind of foods & meals & drinks.. there is cart page contains all meals&drinks and the total price  `,
 
     skillsUsed: [
@@ -84,7 +84,7 @@ export const projects = [
     id : 4 ,
     type : "Front-End" ,
     title: "Weather",
-    picture: "./weather.png" ,
+    picture: "https://i.postimg.cc/1RnMmGJF/weather.png" ,
     description: `Weather App is a simple application, contains one page , user can write name of city to get the weather`,
 
     skillsUsed: [
